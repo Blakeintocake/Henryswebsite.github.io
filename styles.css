@@ -1,0 +1,81 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: pink;
+}
+
+main {
+  text-align: center;
+  color: red;
+  border: solid;
+}
+
+footer {
+  background-color: pink;
+  border: dotted;
+  border-color: #F0F49A;
+  padding: 10px;
+}
+
+#Barf_Image {
+  border: solid 5px;
+  padding: 30px;
+}
+
+#Blake_Logo {
+  border: solid 5px;
+}
+
+#WhyCakeIsBad {
+  background-color: #F0F49A;
+}
+
+p {
+  color: black;
+}
+
+#index {
+  color: pink;
+  border-color: tan;
+}
+
+#SpreadTheHate {
+  background-color: #F0F49A;
+}
+
+#AlternativeFoods {
+  background-color: #F0F49A;
+}
+
+nav {
+  text-align: left;
+  background-color: #F0F49A;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 10px;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  padding-right: 20px;
+  color: red;
+  padding: 10px;
+}
+
+a:hover {
+  color: #F0F49A;
+  background-color:red;
+}
+
